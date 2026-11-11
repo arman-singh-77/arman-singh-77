@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @arman-singh-77
-- 👀 I’m interested in open source project's and contributing to technology 
-- 🌱 I’m currently learning open source language'
-- 💞️ I’m looking to collaborate on project that are exciting and intresting
-- 📫 How to reach me Email. singharman3514@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i am passionate about leadership and enjoy guiding teams 
+# Hi, I'm Arman 👋
 
-<!---
-arman-singh-77/arman-singh-77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m learning software development, exploring open source, and building projects that help me grow through hands-on work.
+
+## What I’m working on
+
+### [VitaAI Beta](https://github.com/arman-singh-77/VitaAI-Beta)
+
+An early-stage educational health information app with a provisional article library, PostgreSQL full-text search, and medical safety groundwork. It is a work in progress, not a clinical or finished AI assistant.
+
+## Interests
+
+- Open source and collaborative software projects
+- Learning by building and sharing useful work
+- Leadership and helping teams work well together
+
+## Collaboration
+
+I’m open to learning alongside others and contributing to thoughtful, interesting projects. Feel free to connect with me here on GitHub.
+
+**Pronouns:** he/him
